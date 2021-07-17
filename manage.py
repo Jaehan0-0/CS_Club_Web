@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+"""
+Name : StaticIpsx-1
+Static ip : 3.34.66.14
+"""
 import os
 import sys
 
